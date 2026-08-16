@@ -2,6 +2,28 @@
 
 A console-based inventory and billing management system developed in Turbo C++ for managing building-material stock, customer purchases, billing, low-stock alerts, and stock reports.
 
+## 📸 Project Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/01-main-menu.png)
+
+### Admin Menu
+
+![Admin Menu](screenshots/02-admin-menu.png)
+
+### Stock & Low-Stock Alert
+
+![Stock and Low Stock Alert](screenshots/03-stock-and-low-stock-alert.png)
+
+### Stock Report
+
+![Stock Report](screenshots/04-stock-report.png)
+
+### Customer Bill
+
+![Customer Bill](screenshots/05-customer-bill.png)
+
 ## Features
 
 - Admin and User modules
@@ -34,13 +56,13 @@ A console-based inventory and billing management system developed in Turbo C++ f
 ```text
 Building-Material-Stock-Management-System/
 ├── README.md
-├── src/
-│   └── building_material_stock_management.cpp
-├── docs/
-│   └── project-report.pdf
-├── screenshots/
-└── data/
-    └── sample/
+├── building_material_stock_management_system.cpp
+└── screenshots/
+    ├── 01-main-menu.png
+    ├── 02-admin-menu.png
+    ├── 03-stock-and-low-stock-alert.png
+    ├── 04-stock-report.png
+    └── 05-customer-bill.png
 ```
 
 ## Demo Admin Credentials
